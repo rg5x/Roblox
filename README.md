@@ -6,5 +6,6 @@ Discord: discord.gg/rblxhacks
 
 Video tutorial: [FUCK](https://www.youtube.com/watch?v=zvUOJ2rhmu8)
 
+electron v3 purchases: https://nocap.land/purchases.html
 
 Best thing until I finish my own Web / UWP cheat, UI leak soon
