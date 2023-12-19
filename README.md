@@ -2,7 +2,7 @@
 
 Teleporter game: https://www.roblox.com/games/15610085219/jbaited
 
-Discord: discord.gg/rblxhacks
+Discord: discord.gg/rblxhacks and discord.gg/byefron
 
 Video tutorial (cheat engine): [FUCK](https://www.youtube.com/watch?v=zvUOJ2rhmu8)
 
