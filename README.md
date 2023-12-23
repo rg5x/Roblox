@@ -1,20 +1,20 @@
-# how 2 cheat on roblox!! (dont expect much from Netflix, it literally is level 2 so wait for something more safe and powerful)
+# how 2 cheat on roblox!!
 
-**I DECODED THIS LMAO, VISION EXTERNAL/INTERNAL RELEASES JANUARY 5TH 2024. .GG/VISION**
+![cat](https://github.com/rg5x/Roblox/assets/131100291/7e24856e-88fd-4ad9-943c-19a01266fee1)
 
-![image](https://github.com/rg5x/Netflix/assets/131100291/d1264a30-703a-491d-b068-59d4256ed6d9)
+*Netflix isn't very powerful, it's simple being level 2. Don't expect much from it.*
 
-
-Teleporter game: https://www.roblox.com/games/15610085219/jbaited
+Teleporter Game: https://www.roblox.com/games/15610085219/jbaited
 
 Discord: discord.gg/rblxhacks and discord.gg/byefron
 
-Video tutorial (cheat engine): [FUCK](https://www.youtube.com/watch?v=zvUOJ2rhmu8)
+Video tutorial (Netflix CE): [FUCK](https://www.youtube.com/watch?v=zvUOJ2rhmu8)
 
-Video tutorial (python): https://streamable.com/k3w80h
+Video tutorial (Python): https://streamable.com/k3w80h
 
-electron v3 purchases: https://nocap.land/purchases.html
+Video tutorial (SkidWare): https://www.youtube.com/watch?v=TmWtIbAuAEA
 
-Best thing until I finish my own Web / UWP cheat, UI leak soon.
-Netflix CE V2.1 is from Inposs. Use at your own risk (inposs kinda a bad guy); V2 is from OMGExploits.
-Central Executor will be added when its confirmed to be safe: https://central-executor.com
+Netflix CE V2 is from OMGExploits
+Netflix CE V2.1 is from Inposs
+CEXT/Python is from Inposs
+SkidWare is from qiqo
