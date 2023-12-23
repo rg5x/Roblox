@@ -15,6 +15,6 @@ Video tutorial (python): https://streamable.com/k3w80h
 
 electron v3 purchases: https://nocap.land/purchases.html
 
-Best thing until I finish my own Web / UWP cheat, UI leak soon
+Best thing until I finish my own Web / UWP cheat, UI leak soon.
 Netflix CE V2.1 is from Inposs. Use at your own risk (inposs kinda a bad guy); V2 is from OMGExploits.
 Central Executor will be added when its confirmed to be safe: https://central-executor.com
