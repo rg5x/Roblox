@@ -14,7 +14,13 @@ Video tutorial (Python): https://streamable.com/k3w80h
 
 Video tutorial (SkidWare): https://www.youtube.com/watch?v=TmWtIbAuAEA
 
+# Credits (sources, not always who developed them)
+
 Netflix CE V2 is from OMGExploits
+
 Netflix CE V2.1 is from Inposs
+
 CEXT/Python is from Inposs
+
 SkidWare is from qiqo
+
